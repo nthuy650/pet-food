@@ -1,0 +1,19 @@
+.header {
+    height: 120px;
+    background-color: pink;
+}
+
+.header .container,
+.header .container .row {
+    height: 100%;
+}
+
+.header-logo,
+.header-menu,
+.header-actions {
+    height: 100%;
+}
+
+.nav-link {
+    text-transform: uppercase;
+}
